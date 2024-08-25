@@ -1,1 +1,29 @@
-
+payload:
+#自定义规则 格式请参考教程--------------
+#Misty
+  - DOMAIN-SUFFIX,misty.cx
+#垃圾影视公费服
+  - DOMAIN-SUFFIX,xmsl.org
+#Misaka
+  - DOMAIN-SUFFIX,misakaf.org
+#!Emby-树状图
+  - DOMAIN-SUFFIX,789.123456.al
+#卡戎
+  - DOMAIN-SUFFIX,charontv.com
+#dpx
+  - DOMAIN-SUFFIX,123456.buzz
+#apopcloud
+  - DOMAIN-SUFFIX,emby.apopcloud.com
+  - DOMAIN-SUFFIX,sg.886318.xyz
+#!Emby-AcEmby  
+  - DOMAIN-SUFFIX,entry.zox.show
+#!Emby-NMEmby
+  - DOMAIN-SUFFIX,film.hovervan.org
+#琴鸟
+  - DOMAIN-SUFFIX,lyrebirdemby.com
+#牢大
+  - DOMAIN-SUFFIX,mius.uk
+#-------------------------------------
+#  - DOMAIN-SUFFIX,googleapis.cn    #防止使用部分香港节点时play商店无法下载软件
+#classical形式的rule-provider支持路由规则的全部类型 (rule-set/sub-rule 除外)
+#可用规则格式如下：https://wiki.metacubex.one/config/rules/
