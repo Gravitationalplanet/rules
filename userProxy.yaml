@@ -4,6 +4,8 @@ payload:
   - DOMAIN-SUFFIX,38.59.246.49
 #VOA
   - DOMAIN-SUFFIX,voachinese.com
+#sub字幕网
+  - DOMAIN-SUFFIX,subhd.tv
 
 #-------------------------------------
   - DOMAIN-SUFFIX,googleapis.cn    
