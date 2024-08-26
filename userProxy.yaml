@@ -15,7 +15,7 @@ payload:
   - DOMAIN,szshort.weixin.qq.com
   - DOMAIN,szlong.weixin.qq.com
   - DOMAIN,apd-pcdnwxlogin.teg.tencent-cloud.net
-
+  - DOMAIN,guid.tpns.tencent.com
 #-------------------------------------
   - DOMAIN-SUFFIX,googleapis.cn    
 #防止使用部分香港节点时play商店无法下载软件
