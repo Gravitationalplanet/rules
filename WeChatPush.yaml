@@ -7,3 +7,4 @@ payload:
   - DOMAIN-SUFFIX,dns.weixin.qq.com
   - DOMAIN-SUFFIX,szshort.weixin.qq.com
   - DOMAIN-SUFFIX,szlong.weixin.qq.com
+  - DOMAIN-SUFFIX,apd-pcdnwxnat.teg.tencent-cloud.net
