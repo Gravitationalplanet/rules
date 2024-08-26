@@ -6,6 +6,15 @@ payload:
   - DOMAIN-SUFFIX,voachinese.com
 #sub字幕网
   - DOMAIN-SUFFIX,subhd.tv
+#--让微信注册fcm----------------------
+  - DOMAIN,short.weixin.qq.com
+  - DOMAIN,extshort.weixin.qq.com
+  - DOMAIN,dns.weixin.qq.com.cn
+  - DOMAIN,long.weixin.qq.com
+  - DOMAIN,dns.weixin.qq.com
+  - DOMAIN,szshort.weixin.qq.com
+  - DOMAIN,szlong.weixin.qq.com
+  - DOMAIN,apd-pcdnwxlogin.teg.tencent-cloud.net
 
 #-------------------------------------
   - DOMAIN-SUFFIX,googleapis.cn    
