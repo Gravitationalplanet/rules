@@ -86,5 +86,9 @@ payload:
 #win系统更新不走代理以免浪费流量
   - DOMAIN-SUFFIX,windowsupdate.com      
 
+#FCM直连
+#  - DST-PORT,123/5228,DIRECT
+  - DST-PORT,5228-5230
+
 #classical形式的rule-provider支持路由规则的全部类型(rule-set/sub-rule 除外)
 #可用规则格式如下https://wiki.metacubex.one/config/rules/
