@@ -6,7 +6,7 @@ payload:
   - DOMAIN-SUFFIX,voachinese.com
 #sub字幕网
   - DOMAIN-SUFFIX,subhd.tv
-  - DOMAIN-SUFFIX,sharechain.qq.com
+#Appshare
   - DOMAIN-SUFFIX,app.sharess.cn
 #-------------------------------------
   - DOMAIN-SUFFIX,googleapis.cn    
