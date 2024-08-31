@@ -6,6 +6,7 @@ payload:
   - DOMAIN-SUFFIX,voachinese.com
 #sub字幕网
   - DOMAIN-SUFFIX,subhd.tv
+  - DOMAIN-SUFFIX,sharechain.qq.com
 #-------------------------------------
   - DOMAIN-SUFFIX,googleapis.cn    
 #防止使用部分香港节点时play商店无法下载软件
