@@ -81,6 +81,8 @@ payload:
   - DOMAIN-SUFFIX,cf.bili.rip
 #牢大
   - DOMAIN-SUFFIX,mius.uk
+#cc
+  - DOMAIN-SUFFIX,cc.coemn.com
 #起点
   - DOMAIN-SUFFIX,qidian.com
 
