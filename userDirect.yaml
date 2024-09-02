@@ -82,7 +82,7 @@ payload:
 #牢大
   - DOMAIN-SUFFIX,mius.uk
 #cc
-#  - DOMAIN-SUFFIX,cc.coemn.com
+  - DOMAIN-SUFFIX,cc.coemn.com
 #起点
   - DOMAIN-SUFFIX,qidian.com
 
