@@ -84,6 +84,8 @@ payload:
 #cc
 #  - DOMAIN-SUFFIX,cc.coemn.com
   - DOMAIN-SUFFIX,cc.embycc.link
+#阿甘
+  - DOMAIN-SUFFIX,aganemby.top
 #起点
   - DOMAIN-SUFFIX,qidian.com
 
