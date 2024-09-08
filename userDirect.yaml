@@ -100,6 +100,8 @@ payload:
 #   - DOMAIN-SUFFIX,gitlab.com
 #ApopCloud pro
   - DOMAIN-SUFFIX,apopcloud.live
+#AWA
+  - DOMAIN-SUFFIX,tv.811861.xyz
 
 #classical形式的rule-provider支持路由规则的全部类型(rule-set/sub-rule 除外)
 #可用规则格式如下https://wiki.metacubex.one/config/rules/
