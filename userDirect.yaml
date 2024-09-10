@@ -23,6 +23,8 @@ payload:
   - DOMAIN-SUFFIX,bingforbusiness.com
 #!Emby-nice cloud网络订阅
 #  - DOMAIN-SUFFIX,niceink.xyz
+#纸片人
+  - DOMAIN-SUFFIX,embyplus.org
 #!Emby-地平线  
   - DOMAIN-SUFFIX,dpx6.123456.buzz
   - DOMAIN-SUFFIX,dpx7.123456.buzz
