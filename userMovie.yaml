@@ -23,6 +23,9 @@ payload:
   - DOMAIN-SUFFIX,lyrebirdemby.com
 #cc
   - DOMAIN-SUFFIX,cc.coemn.com
+#非越
+  - DOMAIN-SUFFIX,z.sfcj.org
+
 #  - DOMAIN-SUFFIX,cc.embycc.link
 #-------------------------------------
 #  - DOMAIN-SUFFIX,googleapis.cn    #防止使用部分香港节点时play商店无法下载软件
