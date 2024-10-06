@@ -75,7 +75,7 @@ payload:
   - DOMAIN-SUFFIX,pemby.127066.xyz
   - DOMAIN-SUFFIX,emby2.lilyya.xyz
 #非越
-  - DOMAIN-SUFFIX,z.sfcj.org
+#  - DOMAIN-SUFFIX,z.sfcj.org
 #桃子
   - DOMAIN-SUFFIX,embymv.tk
 #hxd
