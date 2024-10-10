@@ -109,6 +109,7 @@ payload:
   - DOMAIN-SUFFIX,emby.9191001.xyz
 #阿甘
   - DOMAIN-SUFFIX,aganemby.top
+  - DOMAIN-SUFFIX,worldline.acecandy.cn
 
 #classical形式的rule-provider支持路由规则的全部类型(rule-set/sub-rule 除外)
 #可用规则格式如下https://wiki.metacubex.one/config/rules/
