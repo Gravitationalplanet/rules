@@ -26,7 +26,8 @@ payload:
 #非越
   - DOMAIN-SUFFIX,z.sfcj.org
 #pili
-  - DOMAIN-SUFFIX,pilipili
+  - DOMAIN-SUFFIX,pilipili.club
+  - DOMAIN-SUFFIX,streamer.pilipiliultra.com
 
 
 #  - DOMAIN-SUFFIX,cc.embycc.link
