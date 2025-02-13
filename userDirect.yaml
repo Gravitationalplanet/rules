@@ -74,6 +74,9 @@ payload:
   - DOMAIN-SUFFIX,127255.best
   - DOMAIN-SUFFIX,pemby.127066.xyz
   - DOMAIN-SUFFIX,emby2.lilyya.xyz
+  - DOMAIN-SUFFIX,pemby.127255.best
+  - DOMAIN-SUFFIX,pemby.127066.xyz
+  - DOMAIN-SUFFIX,raisemby.com
 #非越
 #  - DOMAIN-SUFFIX,z.sfcj.org
 #桃子
