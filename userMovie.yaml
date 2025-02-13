@@ -25,6 +25,9 @@ payload:
   - DOMAIN-SUFFIX,cc.coemn.com
 #非越
   - DOMAIN-SUFFIX,z.sfcj.org
+#pili
+  - DOMAIN-SUFFIX,pilipili
+
 
 #  - DOMAIN-SUFFIX,cc.embycc.link
 #-------------------------------------
