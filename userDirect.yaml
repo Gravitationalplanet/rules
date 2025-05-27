@@ -115,5 +115,8 @@ payload:
   - DOMAIN-SUFFIX,worldline.acecandy.cn
   - DOMAIN-SUFFIX,yhemby.top
 
+#菜牙
+  - DOMAIN-SUFFIX,caiyawang.com
+
 #classical形式的rule-provider支持路由规则的全部类型(rule-set/sub-rule 除外)
 #可用规则格式如下https://wiki.metacubex.one/config/rules/
