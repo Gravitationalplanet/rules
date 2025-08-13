@@ -122,5 +122,9 @@ payload:
   - DOMAIN-SUFFIX,ge.shusan.xyz
   - DOMAIN-SUFFIX,ga.shusan.xyz
 
+#云端
+  - DOMAIN-SUFFIX,qingread.icu
+
+
 #classical形式的rule-provider支持路由规则的全部类型(rule-set/sub-rule 除外)
 #可用规则格式如下https://wiki.metacubex.one/config/rules/
